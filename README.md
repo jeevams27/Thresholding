@@ -117,8 +117,9 @@ plt.title("Thresh By Otsu's Method")
 <br>
 
 ### Global Thresholding and Adaptive Thresholding
-<br>
 ![](./2.jpg)
+<br>
+
 <br>
 <br>
 <br>
